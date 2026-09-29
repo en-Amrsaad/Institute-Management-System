@@ -47,10 +47,3 @@
 * **الواجهة الأمامية:** Windows Forms (.NET Framework)
 * **نظام التقارير:** SAP Crystal Reports
 * **قاعدة البيانات:** SQL Server / ADO.NET
-
-## ⚙️ طريقة التشغيل محلياً
-1. قم باستنساخ المستودع.
-2. افتح ملف الحل `project.school.sln` باستخدام برنامج **Visual Studio**.
-3. تأكد من إعداد سلسلة الاتصال بقاعدة البيانات (Connection String) بشكل صحيح.
-4. تأكد من تثبيت حزمة **Crystal Reports** الخاصة بـ Visual Studio لضمان عمل التقارير.
-5. اضغط على `Start` لبناء وتشغيل النظام.
